@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shivering-in-warm-air/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Shivering In Warm Air](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shivering-in-warm-air/) |
+| **Get License** | [Music Rights & Licensing for Shivering In Warm Air](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shivering-in-warm-air/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Fingertips tracing the edge of the night
+> Your breath on my collar is dangerously right
+> The embers are fading but the fever is high
+> I am losing my mind in the dark of your eyes
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
